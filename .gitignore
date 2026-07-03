@@ -20,3 +20,5 @@ __pycache__/
 *_student.ipynb
 # Local-only maintainer notes (not shipped to students)
 DEV_NOTES.md
+# Private teacher answer key — must NOT ship to the public repo
+TEACHER_reflection_answers.md
